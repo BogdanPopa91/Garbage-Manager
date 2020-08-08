@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: com.postgres.jdbc.Driver
+    url: jdbc:postgres://localhost:5432/garbage_collector
+    username: bogdanpopa
+    password: 1234
